@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=chinmay-official&label=PROFILE+VIEWS)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+![Github stats](https://github-readme-stats.vercel.app/api?username=chinmay-official)
 
 ## I'm a Gamer 🎮, a Programmer 💻, an Engineer 😅, and an Indian 😎!
 
