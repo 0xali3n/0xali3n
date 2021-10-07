@@ -22,10 +22,7 @@
 📸 ┈➤ ？</br>
 🇮🇳CTF ┈➤ ？</br>
 .
-<h3 align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/></h3>
-​
-
-<p><img src="https://media.giphy.com/media/ek5NfQqq4oZL1Es1qi/giphy.gif"/><img src="https://media.giphy.com/media/PWlsJVm3mhwQhD7imf/giphy.gif"/><img src="https://media.giphy.com/media/11h471O9Q1baKY/giphy.gif"/></p>
+<h3 align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/></h3><p align="center"><img src="https://media.giphy.com/media/11h471O9Q1baKY/giphy.gif"/></p>
 
 
 ## Operating Systems I love❤️️
