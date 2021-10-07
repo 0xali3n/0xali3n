@@ -25,6 +25,9 @@
 <h3 align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/></h3>
 ​
 
+<p><img src="https://media.giphy.com/media/ek5NfQqq4oZL1Es1qi/giphy.gif"/><img src="https://media.giphy.com/media/PWlsJVm3mhwQhD7imf/giphy.gif"/><img src="https://media.giphy.com/media/11h471O9Q1baKY/giphy.gif"/></p>
+
+
 ## Operating Systems I love❤️️
 <p><img src="https://securitygrind.com/wp-content/uploads/2018/07/kali-logo-322x251.png" width="85"> &nbsp <img src="https://linuxlia.com/wp-content/uploads/2021/04/imgbin-parrot-polygon-desktop-bird-computer-parrot-RB9rhqGWDsanH5YvGSRm7pyBV-removebg-preview-1.png" width="65" /> &nbsp <img src="https://cdn.worldvectorlogo.com/logos/tux.svg" width="65">  &nbsp <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" width="65" />  &nbsp <img src="https://krispitech.com/wp-content/uploads/2016/08/ANDROID.png" width="85" /> </p>
 </br>
