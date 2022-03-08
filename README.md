@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=chinmay-official&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=MrAnonymous09&label=PROFILE+VIEWS)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=chinmay-official)
+![Github stats](https://github-readme-stats.vercel.app/api?username=MrAnonymous09)
 
 ## I'm a Gamer 🎮, a Programmer 💻, an Engineer 😅, and an Indian 😎!
 
@@ -34,7 +34,7 @@
 </br>
 
 ## My Strike Rate🔥
-[![trophy](https://github-profile-trophy.vercel.app/?username=chinmay-official&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MrAnonymous09&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
