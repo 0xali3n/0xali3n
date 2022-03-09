@@ -26,7 +26,7 @@
 
 
 ## Operating Systems I love❤️️
-<p><img src="https://securitygrind.com/wp-content/uploads/2018/07/kali-logo-322x251.png" width="85" alt="Kali Linux"> &nbsp <img src="https://cdn.worldvectorlogo.com/logos/tux.svg" width="65">  &nbsp <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" width="65" />  &nbsp <img src="https://krispitech.com/wp-content/uploads/2016/08/ANDROID.png" width="85" /> </p>
+<p><img src="https://securitygrind.com/wp-content/uploads/2018/07/kali-logo-322x251.png" width="85" alt="Kali Linux" a href="#"> &nbsp <img src="https://cdn.worldvectorlogo.com/logos/tux.svg" width="65">  &nbsp <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" width="65" />  &nbsp <img src="https://krispitech.com/wp-content/uploads/2016/08/ANDROID.png" width="85" /> </p>
 </br>
 
 ## Connect With Me On🔗
