@@ -5,7 +5,9 @@
 ## I'm a Gamer 🎮, a Programmer 💻, an Engineer 😅, and an Indian 😎!
 
 </br>
-🌜♓🎐🎵🎵⛎🔵</br>
+while(!dead) { </br>
+code(); </br>
+}</br>
 .</br>
 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗶𝘀 𝗙𝗿𝗲𝗲</br>
 .</br>
