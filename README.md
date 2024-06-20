@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=MrAnonymous09&label=PROFILE+VIEWS)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=MrAnonymous09)
+![Github stats](https://github-readme-stats.vercel.app/api?username=0xali3n)
 
 <img width="866" alt="chinmayio" src="https://github.com/0xali3n/MrAnonymous09/assets/72184293/51a1425b-a930-46f0-a146-d69b48b36b71">
 
@@ -38,12 +38,12 @@ code(); </br>
 <p><a href="https://twitter.com/Chinmay_Patil_"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4n_urpJ9XpwOTdzBVbGvactwHrPagYQrTJPYjxfxLGkSyu7nJZVqRVGAeohnPgKMrnKE&usqp=CAU" width="85" /></a> &nbsp <a href="https://www.instagram.com/lost_ali3n_/"><img class="alignnone" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="" width="65" /></a> &nbsp &nbsp<a href="[https://github.com/MrAnonymous09](https://www.linkedin.com/in/chinmay-patil-74ab36245/)"><img class="alignnone" src="https://user-images.githubusercontent.com/72184293/210424897-4cbd05ac-608c-4bb8-b6a4-e9604ddb0a9c.png" alt="" width="65"/></a>&nbsp &nbsp<a href="https://codothon.com/"><img class="alignnone" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" alt="" width="75"/></a></p>
 </br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mranonymous09&show_icons=true&locale=en&layout=compact" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xali3n&show_icons=true&locale=en&layout=compact" />
 </br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mranonymous09&"/></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xali3n&"/></p>
 
 ## My Strike Rate🔥
-[![trophy](https://github-profile-trophy.vercel.app/?username=MrAnonymous09&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=0xali3n&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
