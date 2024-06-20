@@ -2,6 +2,9 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=MrAnonymous09)
 
+<img width="866" alt="chinmayio" src="https://github.com/0xali3n/MrAnonymous09/assets/72184293/51a1425b-a930-46f0-a146-d69b48b36b71">
+
+
 ## I'm a Gamer 🎮, a Programmer 💻, an Engineer 😅, and an Indian 😎!
 
 </br>
