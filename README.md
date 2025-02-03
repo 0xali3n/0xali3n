@@ -49,7 +49,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xali3n&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=0xali3n&color=blueviolet" alt="Profile View" />
 </div>
 
 
