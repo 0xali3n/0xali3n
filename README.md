@@ -1,46 +1,89 @@
-![](https://komarev.com/ghpvc/?username=MrAnonymous09&label=PROFILE+VIEWS)
-
-
-
-
-
-# 👋 Hi, I'm Chinmay Patil [@0xali3n]
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=MrAnonymous09&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+  <h1 align="center">👋 Hi there, I'm Chinmay Patil</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Anth%C3%A9+Labs;Full+Stack+Web3+Developer;AI+%26+Cybersecurity+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <a href="https://linktr.ee/chinmay.io">
+      <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+    </a>
+    <a href="https://linkedin.com/in/thechinmay07">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/intent/follow?screen_name=chinmay_io">
+      <img src="https://img.shields.io/badge/Twitter_Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://t.me/Chinmay_io">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="mailto:thechinmay07@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
-## 🔗 Connect with me
+---
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thechinmay07@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thechinmay07/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Chinmay_io)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Chinmay_io)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chinmay_io/)
+### 👨‍💻 About Me
 
-## 📊 GitHub Stats
+I am a **Computer Science Engineer** and **Tech Entrepreneur** based in **Bengaluru**. My passion lies at the intersection of **Artificial Intelligence**, **Cybersecurity**, and **Web3**.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xali3n&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xali3n&theme=tokyonight" alt="GitHub Streak" />
-</div>
+- 🚀 **Currently:** Building **Anthé Labs**, focusing on next-gen blockchain solutions.
+- 🔭 **Project:** Developing a **Copy Trading Bot** on Kana Labs (Ctrl+Move Hackathon).
+- ⚡ **Tech:** Focused on **NestJS**, **Next.js**, and **Solidity**.
 
-## 🏆 GitHub Trophies
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xali3n&theme=darkhub&no-frame=true&row=1" alt="GitHub Trophies" />
+
+| **Frontend** | **Backend & AI** | **Web3 & Blockchain** | **Tools** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,ts" /> | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,python,pytorch,fastapi" /> | <img src="https://skillicons.dev/icons?i=solidity,rust,web3" /> | <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,postman" /> |
+
 </div>
 
-## 💻 Tech Stack
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 📊 GitHub Stats & Contributions
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=0xali3n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xali3n&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xali3n&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
+  <br/>
+  <img src="https://github.com/0xali3n/0xali3n/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
 
+### 🏆 Achievements
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0xali3n&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+---
+### 🧱 My 3D Contributions
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</div>
+
+<div align="center">
+  <sub><i>"The best way to predict the future is to invent it."</i></sub>
+</div>
+  <img src="https://komarev.com/ghpvc/?username=0xali3n&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
