@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrAnonymous09&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=0xali3n&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
   <h1 align="center">👋 Hi there, I'm Chinmay Patil</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Anth%C3%A9+Labs;Full+Stack+Web3+Developer;AI+%26+Cybersecurity+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer+%26+Product+Builder;Full+Stack+%2F+Applied+AI;Open+Source+Contributor;Based+in+Mainz%2C+Germany" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <a href="https://linktr.ee/chinmay.io">
-      <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+    <a href="https://chinmay.life">
+      <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://linkedin.com/in/thechinmay07">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -30,11 +30,12 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Science Engineer** and **Tech Entrepreneur** based in **Bengaluru**. My passion lies at the intersection of **Artificial Intelligence**, **Cybersecurity**, and **Web3**.
+I am a **Computer Science Engineer** and **Tech Entrepreneur** based in **Mainz, Germany**. My work sits at the intersection of **product engineering**, **Artificial Intelligence**, and **software systems**.
 
-- 🚀 **Currently:** Building **Anthé Labs**, focusing on next-gen blockchain solutions.
-- 🔭 **Project:** Developing a **Copy Trading Bot** on Kana Labs (Ctrl+Move Hackathon).
-- ⚡ **Tech:** Focused on **NestJS**, **Next.js**, and **Solidity**.
+- 🚀 **Background:** Co-founded **Anthé Labs** (2025–2026), working across product and full-stack engineering.
+- 🔭 **Focus:** Building and shipping real products — from AI tools to full-stack apps.
+- ⚡ **Tech:** Focused on **Next.js**, **TypeScript**, **Node.js**, and modern web/APIs.
+- 🎓 **Now:** M.Sc. Computer Science at **TH Bingen**.
 
 ---
 
@@ -42,9 +43,9 @@ I am a **Computer Science Engineer** and **Tech Entrepreneur** based in **Bengal
 
 <div align="center">
 
-| **Frontend** | **Backend & AI** | **Web3 & Blockchain** | **Tools** |
+| **Frontend** | **Backend** | **Blockchain** | **Tools** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,ts" /> | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,python,pytorch,fastapi" /> | <img src="https://skillicons.dev/icons?i=solidity,rust,web3" /> | <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,postman" /> |
+| <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js" /> | <img src="https://skillicons.dev/icons?i=nodejs,python,flask" /> | <img src="https://skillicons.dev/icons?i=solidity" /> | <img src="https://skillicons.dev/icons?i=mongodb,postman,linux" /> |
 
 </div>
 
@@ -64,16 +65,8 @@ I am a **Computer Science Engineer** and **Tech Entrepreneur** based in **Bengal
     </tr>
   </table>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xali3n&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-
   <br/>
   <img src="https://github.com/0xali3n/0xali3n/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
-
-### 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xali3n&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -86,4 +79,3 @@ I am a **Computer Science Engineer** and **Tech Entrepreneur** based in **Bengal
 <div align="center">
   <sub><i>"The best way to predict the future is to invent it."</i></sub>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=0xali3n&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
